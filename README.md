@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+- I’m a postdoctoral researcher at TurkuNLP language technology group
 
 <!--
 **jmnybl/jmnybl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
